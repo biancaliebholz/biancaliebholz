@@ -28,26 +28,40 @@ Schwerpunkte:
 
 ## Tech Stack
 
-<img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=FFC107" />
-<img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=FFC107" />
-<img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=FFC107" />
-<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=FFC107" />
+<table>
+<tr>
+<td align="center" width="33%">
 
-<br/>
+### Frontend  
+HTML5  
+CSS3  
+JavaScript  
+React  
 
-<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFC107" />
-<img src="https://img.shields.io/badge/Django-0F172A?style=for-the-badge&logo=django&logoColor=FFC107" />
-<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=FFC107" />
-<img src="https://img.shields.io/badge/SQLite-0F172A?style=for-the-badge&logo=sqlite&logoColor=FFC107" />
+</td>
 
-<br/>
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge&logo=fastapi&logoColor=FFC107" />
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFC107" />
-<img src="https://img.shields.io/badge/ChatGPT-0F172A?style=for-the-badge&logo=openai&logoColor=FFC107" />
-<img src="https://img.shields.io/badge/GitHub%20Copilot-0F172A?style=for-the-badge&logo=github&logoColor=FFC107" />
-<img src="https://img.shields.io/badge/n8n-0F172A?style=for-the-badge&logo=n8n&logoColor=FFC107" />
+### Backend  
+Python  
+Django  
+PostgreSQL  
+SQLite  
+REST APIs  
 
+</td>
+
+<td align="center" width="33%">
+
+### Tools & KI  
+Git & GitHub  
+ChatGPT  
+GitHub Copilot  
+n8n  
+
+</td>
+</tr>
+</table>
 ---
 
 ## Ziel
