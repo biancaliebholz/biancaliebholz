@@ -4,11 +4,11 @@
 
 <p align="center">
   <b>Full-Stack Webentwicklerin in Ausbildung</b><br/>
-  Clean Code • UI/UX • Barrierefreiheit • APIs • KI & Automation
+  Clean Code • UI/UX • Accessibility • APIs • Performance
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-JavaScript%20%7C%20Responsive%20Design%20%7C%20Accessibility-0F172A?style=for-the-badge&labelColor=FF9800" />
+  <img src="https://img.shields.io/badge/Focus-JavaScript%20%7C%20Responsive%20Design%20%7C%20Clean%20Architecture-0F172A?style=for-the-badge&labelColor=FF9800" />
 </p>
 
 ---
@@ -21,19 +21,40 @@ Meine Projekte entstehen praxisnah und wachsen kontinuierlich mit meinem Skillse
 Schwerpunkte:
 - ⚡ JavaScript & komponentenbasierte Logik  
 - 🎨 Responsive Layouts & UI-Details  
-- ♿ Accessibility & semantisches HTML  
+- ♿ Barrierefreiheit & semantisches HTML  
 - 🔌 APIs & strukturierte Daten  
-- 🤖 KI-gestützte Workflows  
 
 ---
 
 ## 🧩 Tech Stack
 
-**Frontend:**  
-HTML · CSS · JavaScript · React  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
+</p>
 
-**Backend:**  
-Python · Django · PostgreSQL · SQLite  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+---
+
+## 🤖 KI & Automation (Experimentell)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B7A?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
+
+<p align="center">
+  KI unterstützend für Lernen, Prototyping & Automatisierung.
+</p>
 
 ---
 
