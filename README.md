@@ -28,44 +28,37 @@ Schwerpunkte:
 
 ## Tech Stack
 
-<table>
-<tr>
-<td align="center" width="33%">
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=FF9800" />
+  <img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=FF9800" />
+  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=FF9800" />
+  <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=FF9800" />
+</p>
 
-### Frontend  
-HTML5  
-CSS3  
-JavaScript  
-React  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FF9800" />
+  <img src="https://img.shields.io/badge/Django-0F172A?style=for-the-badge&logo=django&logoColor=FF9800" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=FF9800" />
+  <img src="https://img.shields.io/badge/SQLite-0F172A?style=for-the-badge&logo=sqlite&logoColor=FF9800" />
+</p>
 
-</td>
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge&logo=fastapi&logoColor=FF9800" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FF9800" />
+</p>
 
-<td align="center" width="33%">
+---
 
-### Backend  
-Python  
-Django  
-PostgreSQL  
-SQLite  
-REST APIs  
+## KI (im Lernplan)
 
-</td>
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-0F172A?style=for-the-badge&logo=openai&logoColor=FF9800" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-0F172A?style=for-the-badge&logo=github&logoColor=FF9800" />
+  <img src="https://img.shields.io/badge/n8n-0F172A?style=for-the-badge&logo=n8n&logoColor=FF9800" />
+</p>
 
-<td align="center" width="33%">
-
-### Tools & KI  
-Git & GitHub  
-ChatGPT  
-GitHub Copilot  
-n8n  
-
-</td>
-</tr>
-</table>
 ---
 
 ## Ziel
 
 Ein professionelles Portfolio aufbauen und nachhaltige Full-Stack-Kompetenz entwickeln.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC107&height=90&section=footer" />
