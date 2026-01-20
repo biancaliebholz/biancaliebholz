@@ -58,3 +58,10 @@ Schwerpunkte:
 ## Ziel
 
 Ein professionelles Portfolio aufbauen und nachhaltige Full-Stack-Kompetenz entwickeln.
+<br><br>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,100:FF9800&section=footer" 
+  />
+</p>
