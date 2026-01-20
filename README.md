@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Full-Stack Webentwicklerin in Ausbildung</b><br/>
-  Clean Code • UI/UX • APIs • Barrierefreiheit • KI & Automation
+  Clean Code • UI/UX • Barrierefreiheit • APIs • KI & Automation
 </p>
 
 <p align="center">
@@ -13,16 +13,26 @@
 
 ---
 
-## 🧠 Aktueller Fokus
-- ⚡ JavaScript-Logik & Komponentenstruktur  
-- 🎨 Responsive UI + saubere Layouts (Grid/Flex)  
-- ♿ Barrierefreiheit (Labels, ARIA, Semantik)  
-- 🔌 API-Verständnis & Datenflüsse  
-- 🤖 KI-Integration & Automatisierung
+## 🧠 Über mich
+
+Ich befinde mich aktuell in einer intensiven Weiterbildung zur **Full-Stack Webentwicklerin**.  
+Mein Fokus liegt auf sauberem Code, verständlicher Struktur und modernen Webstandards.
+
+Ich arbeite gerne detailorientiert, teste meine Projekte sorgfältig und lege großen Wert auf:
+
+- ⚡ verständliche JavaScript-Logik  
+- 🎨 saubere Layouts & Responsive Design  
+- ♿ Barrierefreiheit & semantisches HTML  
+- 🔌 saubere Datenstrukturen & APIs  
+- 🤖 sinnvolle Nutzung von KI & Automatisierung  
+
+Meine Projekte wachsen kontinuierlich – Qualität ist mir wichtiger als Geschwindigkeit.
 
 ---
 
 ## 🧩 Tech Stack
+
+### 🌐 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -30,22 +40,18 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
+### 🏛 Backend
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 ---
 
-## 📌 Highlight-Projekt
-### 🐝 BookHive – Bücherliste mit Likes & Kommentaren
-✅ Rendern aus JSON • ✅ Like-Toggle • ✅ Kommentare • ✅ Responsive Layout  
-➡️ **Demo & Repo**: (hier Link einfügen)
+## 🎯 Ziel
 
----
+Ich baue mir Schritt für Schritt ein professionelles Portfolio auf und entwickle stabile Full-Stack-Kompetenzen mit Fokus auf Qualität, Wartbarkeit und Nutzererlebnis.
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&theme=transparent" />
-</p>
+Neue Projekte und Lernfortschritte werden regelmäßig ergänzt. 🚀
