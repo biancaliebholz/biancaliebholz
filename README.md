@@ -62,7 +62,7 @@ Ein professionelles Portfolio aufbauen und nachhaltige Full-Stack-Kompetenz entw
 
 <p align="center">
   <img 
-    width="900"
+    width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,100:FF9800&section=footer" 
   />
 </p>
