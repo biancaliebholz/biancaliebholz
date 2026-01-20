@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Bianca%20Liebholz&fontAlign=50&fontAlignY=35&color=0:0F172A,100:FF9800&fontColor=FFFFFF" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Bianca%20Liebholz&fontAlign=50&fontAlignY=35&color=0:0F172A,100:FF9800&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
