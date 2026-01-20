@@ -58,8 +58,6 @@ Schwerpunkte:
 ## Ziel
 
 Ein professionelles Portfolio aufbauen und nachhaltige Full-Stack-Kompetenz entwickeln.
-<br><br>
-
 <p align="center">
   <img 
     width="100%"
