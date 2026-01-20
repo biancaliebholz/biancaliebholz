@@ -1,66 +1,34 @@
-## 👋 Hi, ich bin Bianca!
+<div align="center">
 
-Ich befinde mich aktuell in einer intensiven Weiterbildung zur **Full-Stack Webentwicklerin**.  
-Hier auf GitHub dokumentiere ich meinen Lernfortschritt und veröffentliche meine Projekte.  
-Ich lerne mit viel Neugier, Motivation und Spaß an moderner Webentwicklung.
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&text=Hi,%20ich%20bin%20Bianca&color=0:FF9800,100:FFC107&fontColor=0F172A&fontAlign=50&fontAlignY=50" />
 
----
+<br/>
 
-## 🚀 Tech Stack (aktuell in Ausbildung)
+### Full-Stack Webentwicklerin in Ausbildung  
+**Frontend • Backend • UI/UX • Barrierefreiheit • KI**
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<br/>
 
-### 🏛 Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://img.shields.io/badge/Currently%20building-BookHive-0F172A?style=for-the-badge&labelColor=FFC107" />
+
+</div>
 
 ---
 
-## 🤖 KI & Automation
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B7A?style=for-the-badge&logo=n8n&logoColor=white)
-  
-- KI-gestütztes Programmieren  
-- Prompt-Engineering  
-- Workflow-Automatisierung (n8n, Webhooks)  
-- KI-Integration in Webanwendungen (Agents, RAG)
-
----
-
-## 🔐 IT-Security & APIs
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=api&logoColor=white)
-![Security](https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=databricks&logoColor=white)
-
-- REST-APIs  
-- HTTP-Grundlagen  
-- Web-Security-Basics  
-- Authentifizierung & Autorisierung  
-
----
-
-## 🎯 Ziele
-
-- Ein professionelles Portfolio aufbauen  
-- Sichere Anwendung moderner Webtechnologien  
-- Full-Stack-Kompetenzen festigen und erweitern  
-- Einstieg als Webentwicklerin (Remote/Hybrid)
+## 🔥 Skills
+✅ HTML/CSS • ✅ JavaScript • ✅ React  
+✅ Python • ✅ Django • ✅ SQL  
+✅ REST APIs • ✅ Security Basics • ✅ Accessibility
 
 ---
 
 ## 📂 Projekte
-
-Ich lade meine Übungsprojekte nach und nach hoch:  
-von kleinen HTML/CSS-Seiten bis zu React-Apps und ersten Django-Backends.  
-Mein GitHub entwickelt sich jede Woche weiter. 🚀
+- 🐝 **BookHive** – Bücher-App mit Likes & Kommentaren  
+- 🧪 Übungen & Mini-Projekte – JS Loops, Arrays, DOM  
+- 🌱 Learning Progress – jede Woche neue Repos
 
 ---
 
-Danke fürs Vorbeischauen! 😊
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=DEIN_USERNAME&theme=flat&no-frame=true&row=1&column=6" />
+</p>
