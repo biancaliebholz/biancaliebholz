@@ -8,56 +8,57 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-JavaScript%20%7C%20Responsive%20Design%20%7C%20Clean%20Architecture-0F172A?style=for-the-badge&labelColor=FF9800" />
+  <img src="https://img.shields.io/badge/FOCUS-JavaScript%20%7C%20Responsive%20Design%20%7C%20Clean%20Architecture-0F172A?style=for-the-badge&labelColor=FF9800" />
 </p>
 
 ---
 
-## 🧠 About
+## About
 
-Ich entwickle moderne Webanwendungen mit Fokus auf **saubere Architektur, gute Usability und stabile Logik**.  
+Ich entwickle moderne Webanwendungen mit Fokus auf **saubere Architektur**, **gute Usability** und **stabile Logik**.  
 Meine Projekte entstehen praxisnah und wachsen kontinuierlich mit meinem Skillset.
 
 Schwerpunkte:
-- ⚡ JavaScript & komponentenbasierte Logik  
-- 🎨 Responsive Layouts & UI-Details  
-- ♿ Barrierefreiheit & semantisches HTML  
-- 🔌 APIs & strukturierte Daten  
+- JavaScript & komponentenbasierte Logik  
+- Responsive Layouts & UI-Details  
+- Barrierefreiheit & semantisches HTML  
+- APIs & strukturierte Daten  
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
+  <img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=FF9800" />
+  <img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=FF9800" />
+  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=FF9800" />
+  <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=FF9800" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-
----
-
-## 🤖 KI & Automation (Experimentell)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B7A?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FF9800" />
+  <img src="https://img.shields.io/badge/Django-0F172A?style=for-the-badge&logo=django&logoColor=FF9800" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=FF9800" />
+  <img src="https://img.shields.io/badge/SQLite-0F172A?style=for-the-badge&logo=sqlite&logoColor=FF9800" />
 </p>
 
 <p align="center">
-  KI unterstützend für Lernen, Prototyping & Automatisierung.
+  <img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge&logo=fastapi&logoColor=FF9800" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FF9800" />
 </p>
 
 ---
 
-## 🎯 Ziel
+## KI (im Lernplan)
 
-Professionelles Portfolio aufbauen und nachhaltige Full-Stack-Kompetenz entwickeln.
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-0F172A?style=for-the-badge&logo=openai&logoColor=FF9800" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-0F172A?style=for-the-badge&logo=github&logoColor=FF9800" />
+  <img src="https://img.shields.io/badge/n8n-0F172A?style=for-the-badge&logo=n8n&logoColor=FF9800" />
+</p>
+
+---
+
+## Ziel
+
+Ein professionelles Portfolio aufbauen und nachhaltige Full-Stack-Kompetenz entwickeln.
