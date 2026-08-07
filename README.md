@@ -48,7 +48,6 @@ Schwerpunkte:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-0F172A?style=for-the-badge&logo=openai&logoColor=FF9800" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-0F172A?style=for-the-badge&logo=github&logoColor=FF9800" />
   <img src="https://img.shields.io/badge/n8n-0F172A?style=for-the-badge&logo=n8n&logoColor=FF9800" />
 </p>
