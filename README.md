@@ -11,13 +11,6 @@
   <img src="https://img.shields.io/badge/AREAS-FRONTEND%20%7C%20BACKEND%20%7C%20UI%2FUX%20%7C%20SOFTWARE%20ENGINEERING-0F172A?style=for-the-badge&labelColor=FF9800" alt="Frontend, Backend, UI/UX, Software Engineering" />
 </p>
 
-<p align="center">
-  📍 Based in Germany &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://biancaliebholz.de">
-    <img src="https://img.shields.io/badge/PORTFOLIO-VIEW%20WEBSITE-0F172A?style=for-the-badge&labelColor=FF9800" alt="Visit my portfolio" />
-  </a>
-</p>
-
 ---
 
 ## About
